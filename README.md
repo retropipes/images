@@ -1,2 +1,2 @@
-# lib-java-images
+# Images
  Java image display library
